@@ -4,6 +4,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .page-wrapper {
@@ -58,19 +59,7 @@ abbr {
     text-decoration: none !important;
   }
 
-a:link {
-    color: #315159;
-}
-
-a:visited {
-    color: #315159;
-}
-
-a:hover {
-    color: #315159;
-}
-
-a:active {
+a {
     color: #315159;
 }
 
